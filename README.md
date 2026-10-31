@@ -49,21 +49,6 @@ I'm a software developer who enjoys building reliable backend services, scriptin
 
 ---
 
-### Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek24b&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek24b&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek24b&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff" alt="Streak Stats" width="97%" />
-</div>
-
----
-
 ### Contact
 
 If you want to get in touch, the best way is to email me directly at [vivek24bhardwaj@gmail.com](mailto:vivek24bhardwaj@gmail.com).
