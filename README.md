@@ -49,6 +49,14 @@ I'm a software developer who enjoys building reliable backend services, scriptin
 
 ---
 
+### Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek24b&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff" alt="Streak Stats" width="95%" />
+</div>
+
+---
+
 ### Contact
 
 If you want to get in touch, the best way is to email me directly at [vivek24bhardwaj@gmail.com](mailto:vivek24bhardwaj@gmail.com).
