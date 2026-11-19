@@ -11,7 +11,7 @@
 
 ---
 
-### Engineering Focus
+### My Focus
 
 I build backend systems, reliable data pipelines, and developer infrastructure. My focus is on writing predictable, observable software that holds up under load.
 
