@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Direct_Contact-vivek24bhardwaj%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white)](mailto:vivek24bhardwaj@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vivek24bhardwaj%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivek24bhardwaj@gmail.com)
 
 </div>
 
@@ -28,6 +28,7 @@ I build backend systems, reliable data pipelines, and developer infrastructure. 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -59,6 +60,6 @@ I build backend systems, reliable data pipelines, and developer infrastructure. 
 
 ---
 
-<div align="center">
-  <sub>Available for technical collaboration and architecture inquiries: <a href="mailto:vivek24bhardwaj@gmail.com">vivek24bhardwaj@gmail.com</a></sub>
-</div>
+### Contact
+
+If you want to get in touch, feel free to email me directly at [vivek24bhardwaj@gmail.com](mailto:vivek24bhardwaj@gmail.com).
